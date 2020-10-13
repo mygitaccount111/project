@@ -1,10 +1,13 @@
 /*Colors*/
+*
+{
 $red: #ff3333;
 $yellow: #ffcc33;
 $aqua: #55dde0;
 $lightPurple: #9966cc;
 $tealBLue: #33658a;
 $linear: linear-gradient(90deg, #3f4593, #5960bd);
+}
 
 /*Font*/ 
 $mainFont: 'Roboto', sans-serif;
